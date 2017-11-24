@@ -1,4 +1,5 @@
 node_modules/
+/compiled
 build/
 build-pre-gyp/
 Release/
